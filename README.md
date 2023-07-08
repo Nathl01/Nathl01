@@ -77,6 +77,12 @@
   <a href="https://trello.com/">
     <img src="https://img.shields.io/badge/-Trello-0079BF?style=for-the-badge&logo=trello&logoColor=0079BF&labelColor=282828">
   </a>
+   <a href="https://insomnia.rest/">
+    <img src="https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=5849BE&labelColor=282828">
+  </a>
+   <a href="https://www.jetbrains.com/idea/">
+    <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=000000&labelColor=282828">
+  </a>
 </div>
 
 <br>
