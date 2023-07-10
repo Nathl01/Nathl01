@@ -10,7 +10,7 @@
 - ☁️ I'm interested in cloud storage, so I'm studying AWS.<br>
 - 💡 I like to talk about things that make me learn something new.<br>
 - 🪐 Fun fact: I really like to talk about astronomy.<br>
-- 📚 Other fun fact: Apart from programming languages, I also enjoy studying languages such as English, Spanish and Italian.<br>
+- 📚 Other fun fact: Apart from programming languages, I also enjoy studying languages such as English and Spanish.<br>
 
 <br>
 
