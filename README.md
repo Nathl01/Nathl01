@@ -15,64 +15,62 @@
 <br>
 
 ## 🚀 My skills
-
-<h3>Database:</h3>
-<div align="left">
-  <a href="https://www.mysql.com/">
-    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=282828">
-  </a>
-  <a href="https://www.postgresql.org/">
-    <img src="https://img.shields.io/badge/-PostgreSQL-003B57?style=for-the-badge&logo=postgresql&logoColor=003B57&labelColor=282828">
-  </a>  
-  <a href="https://mariadb.org/">
-    <img src="https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=MariaDB&logoColor=003545&labelColor=282828">
-  </a>
-</div>
-
 <h3>Front-End Development:</h3>
 <div align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   </a>
   <a href="https://www.javascript.com/">
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=282828">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   </a>
   <a href="https://devdocs.io/css/">
-    <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   </a>
   <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/">
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=7952B3&labelColor=282828">
+    <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
   </a>
 </div>
 
+<h3>Design:</h3>
+<div align="left">
+  <a href="https://www.figma.com/">
+    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+  </a>
+  <a href="https://www.canva.com/en_gb/">
+    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
+  </a>  
+</div>
+
+<h3>Hosting/SaaS:</h3>
+<div align="left">
+  <a href="https://docs.aws.amazon.com/">
+    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  </a>
+  <a href="https://learn.microsoft.com/en-us/azure/?product=popular">
+    <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
+  </a>
+</div>
+
+<h3>IDEs/Editors:</h3>
+<div align="left">
+  <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  </a>
+  <a href="https://www.jetbrains.com/help/webstorm/getting-started-with-webstorm.html">
+    <img src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black">
+  </a>
+</div>
+  
 <h3>Tools:</h3>
 <div align="left">
   <a href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=F05032&labelColor=282828">
-  </a>
-  <a href="https://www.npmjs.com/">
-    <img src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=CB3837&labelColor=282828">
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
   </a>
   <a href="https://github.com/">
     <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white">
   </a>
-  <a href="https://www.figma.com/">
-    <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=282828">
-  </a>
-  <a href="https://code.visualstudio.com/">
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=007ACC&labelColor=282828">
-  </a>
-  <a href="https://www.notion.so/">
-    <img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white">
-  </a>
-  <a href="https://trello.com/">
-    <img src="https://img.shields.io/badge/-Trello-0079BF?style=for-the-badge&logo=trello&logoColor=0079BF&labelColor=282828">
-  </a>
-   <a href="https://insomnia.rest/">
-    <img src="https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=5849BE&labelColor=282828">
-  </a>
-   <a href="https://www.jetbrains.com/idea/">
-    <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=000000&labelColor=282828">
+  <a href="https://www.npmjs.com/">
+    <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
   </a>
 </div>
 
@@ -86,7 +84,7 @@
 </a>
 
 <a href="mailto:santosnath314@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:santosnath314@gmail.com)]">
+  <img src="https://img.shields.io/badge/-Email-16c60c?style=flat-square&logo=Gmail&logoColor=white&link=mailto:santosnath314@gmail.com)]">
 </a>
 
 [![GitHub Nathl01]( https://img.shields.io/github/followers/Nathl01?label=follow&style=social)](https://github.com/Nathl01)
