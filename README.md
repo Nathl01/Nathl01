@@ -1,13 +1,13 @@
 <h1 align="center"> Hello, my name is Nathalia!🌙</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=f8efd4&&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+always+looking+to+study+new+technologies,;Full+Stack+Developer.;Be+Welcome+:)"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=f8efd4&&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+always+looking+to+study+new+technologies,;Front+End+Developer.;Be+Welcome+:)"></a>
 </p>
 
 ## ✨ About me
 
 - 🌱 I'm current learning Git and JavaScript.<br>
-- ☁️ I'm interested in cloud storage, so I'm studying AWS.<br>
+- ☁️ I'm interested in cloud storage, so I'm studying Azure.<br>
 - 💡 I like to talk about things that make me learn something new.<br>
 - 🪐 Fun fact: I really like to talk about astronomy.<br>
 - 📚 Other fun fact: Apart from programming languages, I also enjoy studying languages such as English and Spanish.<br>
@@ -15,15 +15,6 @@
 <br>
 
 ## 🚀 My skills
-<h3>Back-End Development:</h3>
-<div align="left">
-  <a href="https://www.java.com/en/">
-    <img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&labelColor=007396">
-  </a>
-  <a href="https://spring.io/projects/spring-boot">
-    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=6DB33F&labelColor=282828">
-  </a>
-</div>
 
 <h3>Database:</h3>
 <div align="left">
