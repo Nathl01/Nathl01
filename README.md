@@ -50,16 +50,6 @@
     <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
   </a>
 </div>
-
-<h3>IDEs/Editors:</h3>
-<div align="left">
-  <a href="https://code.visualstudio.com/">
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  </a>
-  <a href="https://www.jetbrains.com/help/webstorm/getting-started-with-webstorm.html">
-    <img src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black">
-  </a>
-</div>
   
 <h3>Tools:</h3>
 <div align="left">
