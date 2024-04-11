@@ -1,7 +1,7 @@
 <h1 align="center"> Hello, my name is Nathalia!🌙</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=f8efd4&&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+always+looking+to+study+new+technologies,;Front+End+Developer.;Be+Welcome+:)"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=FAD21E&&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+always+looking+to+study+new+technologies,;Front+End+Developer.;Be+Welcome+:)"></a>
 </p>
 
 ## ✨ About me
@@ -31,6 +31,19 @@
   </a>
 </div>
 
+<h3>Tools:</h3>
+<div align="left">
+  <a href="https://git-scm.com/">
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+  </a>
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white">
+  </a>
+  <a href="https://www.npmjs.com/">
+    <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
+  </a>
+</div>
+
 <h3>Design:</h3>
 <div align="left">
   <a href="https://www.figma.com/">
@@ -48,19 +61,6 @@
   </a>
 </div>
   
-<h3>Tools:</h3>
-<div align="left">
-  <a href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-  </a>
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white">
-  </a>
-  <a href="https://www.npmjs.com/">
-    <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
-  </a>
-</div>
-
 <br>
 
 <div align="center">
