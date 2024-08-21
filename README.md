@@ -1,7 +1,7 @@
 <h1 align="center"> Hello, my name is Nathalia!🌙</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=EBDD97&&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+always+looking+to+study+new+technologies,;Back+End+Developer.;Be+Welcome+:)"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=E7EC00&&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+always+looking+to+study+new+technologies,;Back+End+Developer.;Be+Welcome+:)"></a>
 </p>
 
 ## ✨ About me
@@ -15,26 +15,29 @@
 <br>
 
 ## 🚀 My skills
-<h3>Back-End Development:</h3>
 <div align="left">
-  <a>
-    <a href="https://www.mongodb.com/">
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-  </a>
+  <h3>🔧Back-End Development</h3>
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  </a>
+</div>
+
+<div align="left">
+  
+  ## <h3>🗃Databases</h3>
+  <a href="https://www.mongodb.com/">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
   </a>
   <a href="https://www.postgresql.org/">
     <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
   </a>
-  <a>
-    <a href="https://aws.amazon.com/pt/what-is/sql/">
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white">
+  <a href="https://www.mysql.com/">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   </a>
-</div>
-
-<h3>Tools:</h3>
+  
 <div align="left">
+  
+  ## <h3>🛠Tools</h3>
   <a href="https://www.microsoft.com/pt-br/power-platform/products/power-bi">
     <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black">
   </a>
@@ -43,17 +46,30 @@
   </a>
 </div>
 
-<h3>Hosting/SaaS:</h3>
 <div align="left">
+  
+  ## <h3>💻IDE</h3>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  </a>
+  <a href="https://www.jetbrains.com/ides/">
+    <img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white">
+  </a>
+</div>
+
+<div align="left">
+  
+  ## <h3>☁Hosting/SaaS</h3>
   <a href="https://docs.aws.amazon.com/">
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
   </a>
 </div>
   
 <br>
+<br>
 
 <div align="center">
-<h2>🌎 Where to find me:</h2>
+<h2>🌎 Where to find me</h2>
 
 <a href="https://www.linkedin.com/in/nathaliafrance/">
   <img src="https://img.shields.io/badge/-Nathalia-blue?style=flat-square&logo=Linkedin&logoColor=white">
