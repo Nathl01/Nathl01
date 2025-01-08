@@ -57,9 +57,6 @@
   <a href="https://docs.aws.amazon.com/">
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
   </a>
-  <a href="https://www.oracle.com/">
-    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-  </a>
 </div>
 <br>
 
