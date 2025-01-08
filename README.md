@@ -9,10 +9,10 @@
 ## ✨ About me
 
 - 🌱 I'm current learning Network and Artificial Intelligence.<br>
-- ☁️ I'm interested in cloud storage, so I'm studying Oracle Cloud.<br>
+- ☁️ I'm interested in cloud storage, so I'm studying AWS.<br>
 - 💡 I like to talk about things that make me learn something new.<br>
 - 🪐 Fun fact: I really like to talk about astronomy.<br>
-- 📚 Other fun fact: Apart from cloud computing, I also enjoy studying languages such as English and German.<br>
+- 📚 Other fun fact: Apart from cloud computing, I also enjoy studying languages such as English and Spanish.<br>
 <br>
 
 ## 🚀 My skills
